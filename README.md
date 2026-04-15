@@ -17,8 +17,8 @@ This project is designed for beginner e-commerce analysts and business students 
 ## 📊 Dataset
 
 - Dataset: Online Retail Dataset  
-- Source: UCI Machine Learning Repository  
-- Access Date: [Insert Date]
+- Source: UCI Machine Learning Repository https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source  
+- Access Date: 2026.4.15
 
 The dataset contains transaction-level records, including customer IDs, product details, quantities, prices, and timestamps.
 
