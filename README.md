@@ -68,7 +68,7 @@ The project consists of four main analytical components:
 
 ## ▶️ How to Run
 
-1. Download the dataset  
+1. Download the dataset，make sure the dataset is placed in the **same folder** as the notebook, as the code uses a relative file path to load the data.
 2. Open the Jupyter Notebook  
 3. Run all cells from top to bottom  
 
