@@ -47,10 +47,11 @@ The project follows a structured Python workflow:
 2. Make sure the dataset is placed in the same folder as the notebook, because the code uses a relative file path.
 3. Open the Jupyter Notebook.
 4. Run all cells from top to bottom.
+5. If you would like to explore the details, follow the interactive prompts and enter the corresponding option.
 
 ## 6. Product Link / Demo
 **Notebook:** `OnlineRetailCustomerValueAnalysis.ipynb`  
-**Demo Video:** [Insert video link here]
+**Demo Video:** https://video.xjtlu.edu.cn/Mediasite/Channel/5827ac887fb940a08d3a8e5b8ab9e97d5f/browse/null/most-recent/null/0/null 
 
 ## 7. Limitations & Next Steps
 ### Limitations
